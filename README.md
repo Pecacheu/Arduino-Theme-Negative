@@ -5,6 +5,8 @@ This is the customized Arduino IDE skin I like to use.
 
 It's actually a mod on a few other skins that I put together and then edited in Photoshop.
 
+I have also provided the default arduino skin folder (from version 1.6.3), in case you want to go back to the default and have delete yours.
+
 ## Screenshots:
 
 Everyone loves screenshots!

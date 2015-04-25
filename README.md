@@ -1,5 +1,5 @@
 # Arduino-Theme-Negative
-This is the customized Arduino IDE skin I like to use.
+This is the customized Arduino IDE skin I use.
 
 ##### I call it "Negative"
 

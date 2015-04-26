@@ -29,7 +29,7 @@ buttons.status.color = #ffffff
 
 # GUI - LINESTATUS
 linestatus.color = #ffffff
-linestatus.bgcolor = #424242
+linestatus.bgcolor = #343434
 
 # EDITOR - DETAILS
 

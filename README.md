@@ -22,7 +22,7 @@ Download and extract the "theme" folder.
 On Mac OS X, this is usually `Macintosh HD/Applications/Arduino.app
 (Right-click and select "show package contents") /Contents/Java/Lib`.
 On Windows, the path should be `C:\Program Files (x86)\Arduino\lib`.
-3. **REPLACE THEME FOLDER**
-You should find a file called `"theme"` in your lib folder. Delete this, and replace it with the new theme folder you downloaded.
+3. **REPLACE THEME FOLDER**<br>
+You should find a file called `theme` in your lib folder. Delete this, and replace it with the new theme folder you downloaded.
 
 That's it. You've installed a new arduino theme!

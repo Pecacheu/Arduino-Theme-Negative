@@ -1,0 +1,58 @@
+<!DOCTYPE RSyntaxTheme SYSTEM "theme.dtd">
+<RSyntaxTheme version="1.0">
+   <!-- General Editor Colors -->
+   <background color="363636"/>
+   <caret color="424242"/>
+   <selection fg="ffffff" bg="4a90d9"/>
+   <currentLineHighlight color="ffffaa" fade="false"/>
+   <marginLine fg="b0b4b9"/>
+   <markAllHighlight color="ffc800"/>
+   <markOccurrencesHighlight color="d4d4d4" border="false"/>
+   <matchedBracket fg="000080" bg="b42d23" highlightBoth="true" animate="true"/>
+   <hyperlinks fg="0077ff"/>
+   <secondaryLanguages>
+      <language index="1" bg="fff0cc"/>
+      <language index="2" bg="dafeda"/>
+      <language index="3" bg="ffe0f0"/>
+   </secondaryLanguages>
+   
+   <!-- Gutter Styling -->
+   <gutterBorder color="dddddd"/>
+   <lineNumbers fg="787878"/>
+   <foldIndicator fg="808080" iconBg="ffffff"/>
+   <iconRowHeader activeLineRange="3399ff"/>
+   
+   <!-- Syntax Tokens -->
+   <tokenStyles>
+      <style token="IDENTIFIER" fg="000000"/>
+      <style token="DATA_TYPE" fg="008080" bold="true"/>
+      <style token="FUNCTION" fg="cc6600"/>
+      <style token="VARIABLE" fg="cc6600" bold="true"/>
+      <style token="RESERVED_WORD" fg="024f8b" bold="true"/>
+      <style token="RESERVED_WORD_2" fg="008080" bold="false"/>
+      <style token="PREPROCESSOR" fg="000000" bold="false"/>
+      <style token="ANNOTATION" fg="808080"/>
+      <style token="COMMENT_DOCUMENTATION" fg="7e7e7e"/>
+      <style token="COMMENT_EOL" fg="7e7e7e"/>
+      <style token="COMMENT_MULTILINE" fg="7e7e7e"/>
+      <style token="COMMENT_KEYWORD" fg="7F9FBF" bold="true"/>
+      <style token="COMMENT_MARKUP" fg="7f7f9f"/>
+      <style token="OPERATOR" fg="804040"/>
+      <style token="REGEX" fg="008040"/>
+      <style token="WHITESPACE" fg="000000"/>
+      
+      <style token="LITERAL_BOOLEAN" fg="ffffff" bold="false"/>
+      <style token="LITERAL_NUMBER_DECIMAL_INT" fg="ffffff"/>
+      <style token="LITERAL_NUMBER_FLOAT" fg="ffffff"/>
+      <style token="LITERAL_NUMBER_HEXADECIMAL" fg="ffffff"/>
+      <style token="LITERAL_STRING_DOUBLE_QUOTE" fg="ffffff"/>
+      <style token="LITERAL_CHAR" fg="ffffff"/>
+      <style token="LITERAL_BACKQUOTE" fg="ffffff"/>
+      
+      <style token="SEPARATOR" fg="ffffff"/>
+      <style token="ERROR_IDENTIFIER" fg="5b5b5b"/>
+      <style token="ERROR_NUMBER_FORMAT" fg="5b5b5b"/>
+      <style token="ERROR_STRING_DOUBLE" fg="5b5b5b"/>
+      <style token="ERROR_CHAR" fg="5b5b5b"/>
+   </tokenStyles>
+</RSyntaxTheme>
